@@ -1,0 +1,15 @@
+/* .car {
+    display: inline-block;
+    border: 2px solid #ccc;
+    box-shadow: 2px 2px 1px #eee;
+    padding: 10px;
+    margin-right: 10px;
+} */
+
+#root {
+    display: inline-block;
+    border: 2px solid #ccc;
+    box-shadow: 2px 2px 1px #eee;
+    padding: 10px;
+    margin-right: 10px;
+}
